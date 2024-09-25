@@ -1,0 +1,32 @@
+{
+    "nodes": [
+        { "id": "PP1","size": 30,"color": "#ff0000", "labelPosition": "inside" },
+        { "id": "PE1","size": 20,"color": "#00ff00", "labelPosition": "inside" },
+        { "id": "PE2","size": 20,"color": "#0000ff","labelPosition": "inside" },
+        { "id": "MC1","size": 10,"color": "#ff00ff","labelPosition": "inside"},
+        { "id": "MC2","size": 10,"color": "#ff00ff","labelPosition": "inside" },
+        { "id": "MC3","size": 10,"color": "#ff00ff","labelPosition": "outside"  },
+        { "id": "P_AMVA","size": 15,"color": "#ff0055","labelPosition": "outside"  },
+        { "id": "JONATHAN OCHOA","size": 30,"color": "#ff0055","labelPosition": "outside"  },
+        { "id": "catalina velEZ","size": 30,"color": "#ff5555","labelPosition": "outside"  },
+        { "id": "P_AMBIENTAL","size": 30,"color": "#ff5555","labelPosition": "outside"  }
+        
+
+
+    ],
+    "links": [
+        { "source": "PP1", "target": "PE1", "width": 2  },
+        { "source": "PP1", "target": "PE2", "width": 2  },
+        { "source": "PE1", "target": "MC1", "width": 2  },
+        { "source": "PE1", "target": "MC2", "width": 2  },
+        { "source": "PE2", "target": "MC3", "width": 2  },
+        { "source": "JONATHAN OCHOA", "target": "P_AMVA", "width": 2  },
+        { "source": "P_AMVA", "target": "MC1" , "width": 1 },
+        { "source": "P_AMVA", "target": "MC3" },
+        { "source": "catalina velEZ", "target": "P_AMBIENTAL", "width": 2  },
+        { "source": "P_AMBIENTAL", "target": "MC3", "width": 2  },
+        { "source": "P_AMBIENTAL", "target": "MC2", "width": 10  }
+
+        
+    ]
+}
