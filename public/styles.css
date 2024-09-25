@@ -15,7 +15,7 @@
         stroke-width: 2.5px;
     }
     .link {
-        stroke: rgb(243, 20, 20); /* Cambia el color de las líneas a negro */
+        stroke: rgba(134, 134, 134, 0.541); /* Cambia el color de las líneas a negro */
         stroke-opacity: 0.7; /* Hace las líneas completamente opacas */
         stroke-width: 1px; /* Aumenta el grosor de las líneas */
     }
