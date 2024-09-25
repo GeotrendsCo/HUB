@@ -119,8 +119,8 @@ d3.json('/api/generar-json').then(data => {
     const simulation = d3.forceSimulation(data.nodes)
         .force("link", d3.forceLink(data.links)
             .id(d => d.id)
-            .distance(70))  // Ajusta la distancia entre los nodos
-        .force("charge", d3.forceManyBody().strength(-300))  // Fuerza de repulsión entre nodos
+            .distance(200))  // Ajusta la distancia entre los nodos
+        .force("charge", d3.forceManyBody().strength(-200))  // Fuerza de repulsión entre nodos
         .force("center", d3.forceCenter(width / 2, height / 2));
 
     // Dibujar enlaces (links)
