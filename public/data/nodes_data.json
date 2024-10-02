@@ -1,0 +1,934 @@
+{
+    "nodes": [
+        {
+            "id": "PA1",
+            "name": "LABORATORIO DE INNOVACIÓN ",
+            "description": "Estrategia institucional enla que confluye laformación, las mentorías,las herramientas, losmecanismo, las políticas,las metodologías, losaplicativos y lainvestigación, para lainnovación pedagógica ycurricular",
+            "category": "Producto Padre"
+        },
+        {
+            "id": "P.1",
+            "name": "Innovación Pedagógica y Curricular",
+            "description": "Alcance: Desde los lineamientos para la innovación en los procesos pedagógicos, curriculares y didácticos hasta su incorporación en toda la oferta\t\n\nObjetivo General: El proyecto de innovación pedagógica y curricular es el responsable de crear una nueva forma de materializar el proceso de formación en la Universidad. Establece las bases y cimientos para la transformación de la pedagogía y didáctica, incorporando el aprendizaje experiencial y las pedagogías activas; así como para el desarrollo de tipo de oferta en la que aún no incursiona la Universidad; dibuja las rutas, formas y tipos de flexibilidad posibles al interior de cada programa y en relación con todos los niveles de formación donde el estudiante asume la ruta formativa acorde con sus necesidades, con sus pretensiones y su proyección. Igualmente, busca la coherencia entre estas transformaciones y lo que implica institucionalmente llevarlas a cabo.\t\t\t\t\t\t\t\t\t\t",
+            "category": "Proyectos Estratégicos"
+        },
+        {
+            "id": "1,1,1",
+            "name": "Formación para la Innovación ",
+            "description": "Diseñar e implementar plan de formación permanente para incorporar y ejecutar procesos de innovación.",
+            "category": "Microproyectos Asociados"
+        },
+        {
+            "id": "1,1,2",
+            "name": "Fundamentación de la Propuesta Didáctica",
+            "description": "Diseñar una propuesta didactica para la USB que incorpore estrategias innovadoras centradas en la experiencia del estudiante",
+            "category": "Microproyectos Asociados"
+        },
+        {
+            "id": "1,1,3",
+            "name": "Modelo Evaluación de Competencias y Resultados de Aprendizaje ",
+            "description": "Diseñar modelo de evaluación de los estudiantes incorporando competencias y resultados de aprendizaje",
+            "category": "Microproyectos Asociados"
+        },
+        {
+            "id": "1,1,4",
+            "name": "Transformación del Plan de Acompañamiento a los estudiantes ",
+            "description": "Conectar el PAOE a todo el proceso de innovación",
+            "category": "Microproyectos Asociados"
+        },
+        {
+            "id": "1,2,1",
+            "name": "Concepto, coherencia y consistencia de la transformación curricular",
+            "description": "Fundamentar en la identidad institucional y los objetivos de la innovación el concepto de transformación curricular siendo coherente con el quehacer de todos los procesos",
+            "category": "Microproyectos Asociados"
+        },
+        {
+            "id": "1,2,2",
+            "name": "Nuevo modelo de transformación curricular",
+            "description": "Establecer los lineamientos, elementos y mecanismos que apalancarán los procesos de transformación curricular en la USB",
+            "category": "Microproyectos Asociados"
+        },
+        {
+            "id": "1,2,3",
+            "name": "Identificación de buenas Prácticas en procesos de formación",
+            "description": "Incorporar estrategias que permitan identificar a través de los diferentes actores de la institución, el desarrollo de buenas prácticas en el aula y como generar capacidades a través de la experiencia, la innovación pedagogica y didactica para la definición de criterios de evaluación para los resultados de aprendizaje",
+            "category": "Microproyectos Asociados"
+        },
+        {
+            "id": "1,2,4",
+            "name": "Resignificación del Componente Humanístico de la USB",
+            "description": "Sin Descripción",
+            "category": "Microproyectos Asociados"
+        },
+        {
+            "id": "1,3,1",
+            "name": "Modelos líneas de desarrollo académico",
+            "description": "Definir mejoramiento, transformaciones e innovaciones en cada línea de desarrollo académico",
+            "category": "Microproyectos Asociados"
+        },
+        {
+            "id": "1,3,2",
+            "name": "Rutas de Formación Interdisciplinarias\n",
+            "description": "Diseñar la ruta o posibles rutas de formación a las que pordría acceder el estudiante en su proceso de formación tanto en una disciplina como de forma interdisciplinaria",
+            "category": "Microproyectos Asociados"
+        },
+        {
+            "id": "PA2",
+            "name": "ESTRATEGIA HUB ",
+            "description": "En ella confluye: la estructura, el modelo de servicios y productos, el modelo de gestión de proyectos de comercialización, la definición de nodos de conocimiento, la articulación a ecosistemas por nodos.",
+            "category": "Producto Padre"
+        },
+        {
+            "id": "P.2",
+            "name": "Portafolio",
+            "description": "Alcance: Desde el diseño de programas a la luz de criterios de innovación hasta su registro bajo las diferentes rutas de formación diseñadas. \n\nObjetivo General: El proyecto portafolio, tiene la misión de diseñar el portafolio de oferta educativa institucional incorporando las orientaciones del proyecto innovación pedagógica y curricular y las pretensiones de crecer en número de programas, número de estudiantes e ingresos concentrados en oferta diferenciada. Este proyecto piensa cada nivel y tipo de oferta como un modelo de negocio con sus propias características, requerimientos y necesidades. De igual forma establece la ruta para la creación de negocios emergentes que pueden llegar a contrarrestar el fenómeno mundial de pérdida de estudiantes en pregrado.\t\t\t\t\t\t\t\t\t\t",
+            "category": "Proyectos Estratégicos"
+        },
+        {
+            "id": "2,1,1",
+            "name": "Modelo de Negocio Sistema de Formación Avanzada",
+            "description": "Sin Descripción",
+            "category": "Microproyectos Asociados"
+        },
+        {
+            "id": "2,1,2",
+            "name": "Modelo de Negocio Vigilancia Tecnológica",
+            "description": "Sin Descripción",
+            "category": "Microproyectos Asociados"
+        },
+        {
+            "id": "2,1,3",
+            "name": "Modelo de Negocio Pregrado  ",
+            "description": "Sin Descripción",
+            "category": "Microproyectos Asociados"
+        },
+        {
+            "id": "2,1,4",
+            "name": "Modelo de Negocio Posgrado  ",
+            "description": "Sin Descripción",
+            "category": "Microproyectos Asociados"
+        },
+        {
+            "id": "2,1,5",
+            "name": "Modelo de Negocio Marco Nacional de Cualificación",
+            "description": "el objetivo principal del microproyecto es diseñar y gestionar un modelo de cualificación que responda de manera ágil a las demandas del entorno educativo y laboral, todo bajo los principios de gobernanza regenerativa y distributiva, promoviendo la transformación del individuo y la sociedad\n",
+            "category": "Microproyectos Asociados"
+        },
+        {
+            "id": "2,1,6",
+            "name": "Modelo de Negocio Extensión",
+            "description": "Sin Descripción",
+            "category": "Microproyectos Asociados"
+        },
+        {
+            "id": "2,1,7",
+            "name": "Modelo de Negocio Proyectos y Consultoría",
+            "description": "Sin Descripción",
+            "category": "Microproyectos Asociados"
+        },
+        {
+            "id": "2,2,1",
+            "name": "Portafolio Facultad (pregrado-posgrado-MNC)",
+            "description": "El objetivo del Microproyecto 3: Portafolio Facultad es diseñar, estructurar y consolidar un portafolio integral de programas académicos que abarque pregrado, posgrado, cualificación (MNC), y nuevas modalidades de formación como microcredenciales y rutas flexibles de aprendizaje. Este portafolio debe fomentar la articulación y sinergia entre los saberes, la generación de conocimiento interdisciplinario, y las facultades, garantizando la coherencia académica, la innovación pedagógica y la pertinencia de la oferta educativa.",
+            "category": "Microproyectos Asociados"
+        },
+        {
+            "id": "2,2,2",
+            "name": "Portafolio Extensión (Ed. Continua)",
+            "description": "Sin Descripción",
+            "category": "Microproyectos Asociados"
+        },
+        {
+            "id": "2,2,3",
+            "name": "Portafolio Proyectos y Consultoría- hiperlabs",
+            "description": "Sin Descripción",
+            "category": "Microproyectos Asociados"
+        },
+        {
+            "id": "2,2,4",
+            "name": "USB SKILLS (Cuando se resuelva el tema del HUB de Innovación los molinos, se concreta este tema de los SKILLS)",
+            "description": "Definición de la estrategia que cubrirá toda la formación por competencias, insignias digitales, certificaciones integradas a la diversificación de la oferta academica de pregrados, posgrados, MNC y EDCO",
+            "category": "Microproyectos Asociados"
+        },
+        {
+            "id": "P.3",
+            "name": "Transferencia del Conocimiento",
+            "description": "El objetivo del proyecto Transferencia de Conocimiento es establecer un sistema para la transferencia de conocimiento, con el fin de articular la investigación, la oferta académica, los proyectos de proyección social y el emprendimiento. A través de nodos temáticos interdisciplinarios, se promueve el trabajo colaborativo entre facultades y sectores externos, facilitando la creación de alianzas estratégicas que impulsen el desarrollo social, económico y territorial. Este ecosistema de innovación busca conectar la academia con el sector productivo y la sociedad, garantizando aplicación y generación del conocimiento fomentando la cultura del emprendimiento y la innovación en la Universidad.\n\t\t\t\t",
+            "category": "Proyectos Estratégicos"
+        },
+        {
+            "id": "3.1.1",
+            "name": "Gobernanza para la Transferencia del Conocimiento",
+            "description": "El propósito del Microproyecto 1: Gobernanza para la Transferencia del Conocimiento es diseñar un marco normativo y estratégico que potencie el ecosistema de innovación de la Universidad de San Buenaventura, articulando de manera eficiente los procesos de gestión del conocimiento, innovación tecnológica, propiedad intelectual, y emprendimiento basado en tecnología. Este marco busca consolidar una estructura que garantice la integración de las capacidades académicas, investigativas y empresariales, facilitando la generación de valor y el impacto en el entorno social y productivo.",
+            "category": "Microproyectos Asociados"
+        },
+        {
+            "id": "3.1.2",
+            "name": "Nodo de Sostenibilidad y Sistemas Regenerativos",
+            "description": "En esta línea, buscamos avanzar hacia la sostenibilidad y adoptar un enfoque\nregenerativo para reparar, restaurar y revitalizar sistemas naturales y sociales. Nos\nenfocamos en superar desafíos relacionados con inclusión, protección social,\nviolencia y seguridad ciudadana, gestión del riesgo de desastres, medio ambiente y\ncambio climático. Proponemos soluciones innovadoras que incluyen:\nEvaluación y gestión ambiental:\nSostenibilidad ambiental y vivienda social en contextos urbanos.\nAnalítica para la evaluación ambiental: diagnóstico en ruido, calidad del aire,\nordenamiento territorial, sensoramiento remoto y análisis de datos espaciales\npara identificar fuentes e impactos y proponer soluciones.\nReducción de la huella de carbono asociada a procesos constructivos.\nCambio climático y riesgo ambiental:\nEfectos del cambio climático sobre espacios urbanos y edificaciones.\nEstudios de análisis de riesgo y vulnerabilidad climática.\nEdificios sostenibles.\nEconomías sostenibles:\nNuevas economías: circular, popular y digital.\nEficiencia energética y edificios sostenibles.\nLiderazgo estratégico para la transformación sostenible y regenerativa.",
+            "category": "Microproyectos Asociados"
+        },
+        {
+            "id": "3.1.3",
+            "name": "Nodo Bienestar Integral",
+            "description": "Esta línea se centra en el bienestar físico, psicológico, social y profesional de las\npersonas dentro de las organizaciones, mediante recursos, programas y servicios que\npromueven un entorno saludable y productivo. Nuestro objetivo es que todos puedan\nprosperar, contribuyendo al éxito general y la sostenibilidad de la organización. Abarca:\nEstrategias para el mejoramiento de la salud física y mental.\nCalidad de vida y prevención de la enfermedad.\nInteligencia de datos para el tratamiento de adicciones.\nImpacto de las redes sociales.\nArquetipos y prototipos para equipos en salud.\nInclusión social desde dispositivos y aplicaciones.\nEquidad de género.\nLiderazgo colaborativo para el bienestar y el desarrollo humano.",
+            "category": "Microproyectos Asociados"
+        },
+        {
+            "id": "3.1.4",
+            "name": "Nodo Culturas de Paz",
+            "description": "Conectamos múltiples sectores para consolidar entornos pacíficos, incluyentes, plurales,\ntransparentes y respetuosos de la diferencia. A través del diálogo y la concertación,\npromovemos la armonía del ser humano consigo mismo, con los otros y con el ambiente\nEsto incluye:\nTransformación de conflictos.\nConstrucción de paz.",
+            "category": "Microproyectos Asociados"
+        },
+        {
+            "id": "3.1.5",
+            "name": "Nodo Innovación Pedagógica",
+            "description": "Respondemos a las necesidades educativas mediante la promoción de la\nexperimentación, el aprendizaje y la colaboración. Actuamos como un centro dinámico\ndonde recursos, conocimientos y personas se unen para mejorar la producción\nsostenible a través de métodos de enseñanza innovadores. Este nodo\ninterdisciplinario fomenta la formación de alianzas estratégicas, facilita la investigación\ny comparte programas de capacitación diseñados para formar líderes y equipos de\nalto rendimiento. Incluye:\nFormación de formadores.\nEscuela de formadores empresariales.",
+            "category": "Microproyectos Asociados"
+        },
+        {
+            "id": "P.5",
+            "name": "Alianzas Estratégicas",
+            "description": "Alcance: \"Interno USB: acoger procesos que se gestan desde las funciones sustantivas hasta generar proyectos susceptibles a cooperantes internacionales.\nExterno USB: generar relacionamiento con actores, entidades e instituciones a nivel global. \"\t\t\t\t\t\t\n\nObjetivo general: Desarrollar un modelo integrado de gestión relacional, intencionado y estratégico que responda a las nuevas formas de relacionamiento que requiere la universidad, que potencie su posicionamiento y la fidelización por parte de los públicos internos y externos. \t\t\t\t\t\t",
+            "category": "Proyectos Estratégicos"
+        },
+        {
+            "id": "5,1,1",
+            "name": "Gestión Relacional",
+            "description": "Consolidar la caracterización y los protocolos para la gestión relacional interna y externa.",
+            "category": "Microproyectos Asociados"
+        },
+        {
+            "id": "5,1,2",
+            "name": "Posicionamiento de Marca",
+            "description": "Posicionar la marca institucional con base en los criterios de gestión relacional y lineamientos corporativos. ",
+            "category": "Microproyectos Asociados"
+        },
+        {
+            "id": "5,2,1",
+            "name": "Capacidades de Cooperación",
+            "description": "Generar capacidades en cooperación Nacional e Internacional para el desarrollo institucional",
+            "category": "Microproyectos Asociados"
+        },
+        {
+            "id": "5,2,2",
+            "name": "Implementar Cooperación",
+            "description": "Implementar la cooperación Nacional e internacional para el desarrollo institucional",
+            "category": "Microproyectos Asociados"
+        },
+        {
+            "id": "PA3",
+            "name": "PLATAFORMA DE INNOVACIÓN Y TRANSFERENCIA DE CONOCIMIENTO",
+            "description": "Herramienta sistémica que contiene: Capacidades, proyectosde gestión, de investigación y de comercialización, métricas e indicadore spara la analítica Universitaria.",
+            "category": "Producto Padre"
+        },
+        {
+            "id": "P,9",
+            "name": "Universidad Como Centro de Vida",
+            "description": "Sin Descripción",
+            "category": "Proyectos Estratégicos"
+        },
+        {
+            "id": "9.1",
+            "name": "Sistema de Gestión de Desempeño\n\n",
+            "description": "Sin Descripción",
+            "category": "Microproyectos Asociados"
+        },
+        {
+            "id": "P,6",
+            "name": "HUB Innovación y Transformación Armenia",
+            "description": "Desarrollar un espacio físico y académico que funcione como un nodo estratégico de innovación y transformación para la Universidad de San Buenaventura en Armenia, integrando principios de sostenibilidad y eficiencia operativa. Este microproyecto busca consolidar un entorno que favorezca la creación de alianzas estratégicas, la colaboración interdisciplinaria, y la incubación de proyectos innovadores, alineado con los más altos estándares de infraestructura y en sintonía con las tendencias globales de educación y desarrollo tecnológico.",
+            "category": "Proyectos Estratégicos"
+        },
+        {
+            "id": "6.1",
+            "name": "Estructura académico-administrativa",
+            "description": "Diseñar y consolidar una estructura académico-administrativa de vanguardia para el HUB de Innovación y Transformación en Armenia, concebida para anticipar y responder a las dinámicas globales de colaboración, innovación y creación de valor. Este microproyecto tiene como meta establecer un modelo organizativo ágil y adaptable, que optimice la gestión de proyectos estratégicos con socios clave, fortaleciendo la capacidad institucional de la universidad para integrarse en ecosistemas de conocimiento avanzados, y posicionándose como un referente en innovación educativa y operativa.",
+            "category": "Microproyectos Asociados"
+        },
+        {
+            "id": "6.2",
+            "name": "Modelo de servicios y relacionamiento",
+            "description": "Desarrollar e implementar un modelo de servicios y relacionamiento que eleve al HUB de Innovación y Transformación en Armenia a un centro neurálgico de alianzas estratégicas y cooperación interinstitucional. Este microproyecto busca crear una oferta de servicios única y flexible, capaz de articular nodos de conocimiento y facilitar la integración efectiva en ecosistemas globales de innovación. El objetivo es consolidar la presencia de la universidad como un agente transformador y catalizador de redes colaborativas, alineado con su visión de crecimiento y liderazgo en el ámbito de la innovación y el desarrollo institucional.",
+            "category": "Microproyectos Asociados"
+        },
+        {
+            "id": "P,10",
+            "name": "Sistema  de Analítica Universitaria",
+            "description": "Alcance: Generación de un sistema de analítica educativa e implementación en la gestión de los procesos.\n \nObjetivo: Estructurar un sistema de analítica educativa para la Universidad de San Buenaventura que de manera ágil y pertinente facilite el seguimiento a la gestión institucional y su impacto en la consecución de los objetivos institucionales.",
+            "category": "Proyectos Estratégicos"
+        },
+        {
+            "id": "10.1",
+            "name": "Modelo de gestión",
+            "description": "Estructurar un modelo de gestión integral que optimice la adopción del sistema de analítica universitaria, asegurando una toma de decisiones informada y estratégica en todos los niveles de la Universidad de San Buenaventura. Este microproyecto tiene como propósito establecer un marco de gestión ágil y efectivo que no solo facilite la recopilación y análisis de datos críticos, sino que también oriente la institución hacia una mayor capacidad de respuesta frente a los desafíos educativos y administrativos, impulsando el logro de sus objetivos estratégicos.",
+            "category": "Microproyectos Asociados"
+        },
+        {
+            "id": "10.2",
+            "name": "Plataforma para la Analítica ",
+            "description": "Concebir e implementar una plataforma tecnológica avanzada que permita la gestión y análisis de datos en tiempo real, proporcionando un entorno digital robusto para la toma de decisiones estratégicas en la universidad. Este microproyecto busca desarrollar una herramienta tecnológica de vanguardia que potencie la transformación digital, optimizando la eficiencia operativa, facilitando el monitoreo constante de los procesos institucionales, y contribuyendo al cumplimiento de los objetivos educativos y administrativos de manera más precisa y proactiva.",
+            "category": "Microproyectos Asociados"
+        },
+        {
+            "id": "P,4",
+            "name": "Transformación Digital",
+            "description": "Sin Descripción",
+            "category": "Proyectos Estratégicos"
+        },
+        {
+            "id": "4,2,2",
+            "name": "Automatización de Procesos",
+            "description": "Sin Descripción",
+            "category": "Microproyectos Asociados"
+        },
+        {
+            "id": "PA4",
+            "name": "SISTEMAS DE AMBITOS Y ACIONES PARA EL CAMPUS UNIVERSITARIO ",
+            "description": "Herramienta de gestión parael desarrollo físico, digital,espacios de aprendizaje yespacios para la interacciónsocial, en una lógica deUniversidad Expandida y Abierta",
+            "category": "Producto Padre"
+        },
+        {
+            "id": "P,7",
+            "name": "Plan  Maestro de Infraestructura Física y Medio Ambiente",
+            "description": "Sin Descripción",
+            "category": "Proyectos Estratégicos"
+        },
+        {
+            "id": "7,1,1",
+            "name": "Componente Ambiental PMIF",
+            "description": "Sin Descripción",
+            "category": "Microproyectos Asociados"
+        },
+        {
+            "id": "7,1,2",
+            "name": "Nueva Infraestructura",
+            "description": "Sin Descripción",
+            "category": "Microproyectos Asociados"
+        },
+        {
+            "id": "7,1,3",
+            "name": "Movilidad Universal",
+            "description": "Sin Descripción",
+            "category": "Microproyectos Asociados"
+        },
+        {
+            "id": "7,2,1",
+            "name": "Gestión y Diagnóstico de la Infraestructura",
+            "description": "Sin Descripción",
+            "category": "Microproyectos Asociados"
+        },
+        {
+            "id": "7,2,2",
+            "name": "Plan Mercadeo Infraestructura",
+            "description": "Sin Descripción",
+            "category": "Microproyectos Asociados"
+        },
+        {
+            "id": "7,3,1",
+            "name": "Transformación de Ambientes en Campus",
+            "description": "Sin Descripción",
+            "category": "Microproyectos Asociados"
+        },
+        {
+            "id": "7,3,2",
+            "name": "HUB Innovación Armenia",
+            "description": "Sin Descripción",
+            "category": "Microproyectos Asociados"
+        },
+        {
+            "id": "7,3,3",
+            "name": "Transformación Energética Campus",
+            "description": "Sin Descripción",
+            "category": "Microproyectos Asociados"
+        },
+        {
+            "id": "P,8",
+            "name": "Plan Maestro de Infraestructura Tecnológica",
+            "description": "Sin Descripción",
+            "category": "Proyectos Estratégicos"
+        },
+        {
+            "id": "8.1",
+            "name": "Actualización Tecnológica",
+            "description": "Sin Descripción",
+            "category": "Microproyectos Asociados"
+        },
+        {
+            "id": "8.2",
+            "name": "Renovación Networking Campus",
+            "description": "Sin Descripción",
+            "category": "Microproyectos Asociados"
+        },
+        {
+            "id": "4,1,1",
+            "name": "Formulación de la Estructura de Virtualidad para la Seccional Medellín",
+            "description": "Sin Descripción",
+            "category": "Microproyectos Asociados"
+        },
+        {
+            "id": "4,2,1",
+            "name": "Capacidades para la Transformación Digital",
+            "description": "Sin Descripción",
+            "category": "Microproyectos Asociados"
+        },
+        {
+            "id": "P,11",
+            "name": "Gestión del Cambio ",
+            "description": "Sin Descripción",
+            "category": "Proyectos Estratégicos"
+        },
+        {
+            "id": "11.2",
+            "name": "Endomarketing ",
+            "description": "Sin Descripción",
+            "category": "Microproyectos Asociados"
+        },
+        {
+            "id": "PA5",
+            "name": "MODELO DE GESTIÓN DEL TALENTO HUMANO",
+            "description": "Herramienta de gestión para el desarrollo de los 4 pilares para la gestión del talento humano acorde con una Universidad del siglo XXI",
+            "category": "Producto Padre"
+        },
+        {
+            "id": "9.2",
+            "name": "Modelo de gestion del Talento Humano ",
+            "description": "Sin Descripción",
+            "category": "Microproyectos Asociados"
+        },
+        {
+            "id": "11.1",
+            "name": "Modelo de gestion del cambio - Talento Humano",
+            "description": "Sin Descripción",
+            "category": "Microproyectos Asociados"
+        },
+        {
+            "id": "11.3",
+            "name": "Cultura de Aprendizaje (formación para la transformación)",
+            "description": "Sin Descripción",
+            "category": "Microproyectos Asociados"
+        }
+    ],
+    "links": [
+        {
+            "source": "PA1",
+            "target": "P.1",
+            "value": 1
+        },
+        {
+            "source": "P.1",
+            "target": "1,1,1",
+            "value": 1
+        },
+        {
+            "source": "PA1",
+            "target": "P.1",
+            "value": 1
+        },
+        {
+            "source": "P.1",
+            "target": "1,1,2",
+            "value": 1
+        },
+        {
+            "source": "PA1",
+            "target": "P.1",
+            "value": 1
+        },
+        {
+            "source": "P.1",
+            "target": "1,1,3",
+            "value": 1
+        },
+        {
+            "source": "PA1",
+            "target": "P.1",
+            "value": 1
+        },
+        {
+            "source": "P.1",
+            "target": "1,1,4",
+            "value": 1
+        },
+        {
+            "source": "PA1",
+            "target": "P.1",
+            "value": 1
+        },
+        {
+            "source": "P.1",
+            "target": "1,2,1",
+            "value": 1
+        },
+        {
+            "source": "PA1",
+            "target": "P.1",
+            "value": 1
+        },
+        {
+            "source": "P.1",
+            "target": "1,2,2",
+            "value": 1
+        },
+        {
+            "source": "PA1",
+            "target": "P.1",
+            "value": 1
+        },
+        {
+            "source": "P.1",
+            "target": "1,2,3",
+            "value": 1
+        },
+        {
+            "source": "PA1",
+            "target": "P.1",
+            "value": 1
+        },
+        {
+            "source": "P.1",
+            "target": "1,2,4",
+            "value": 1
+        },
+        {
+            "source": "PA1",
+            "target": "P.1",
+            "value": 1
+        },
+        {
+            "source": "P.1",
+            "target": "1,3,1",
+            "value": 1
+        },
+        {
+            "source": "PA1",
+            "target": "P.1",
+            "value": 1
+        },
+        {
+            "source": "P.1",
+            "target": "1,3,2",
+            "value": 1
+        },
+        {
+            "source": "PA2",
+            "target": "P.2",
+            "value": 1
+        },
+        {
+            "source": "P.2",
+            "target": "2,1,1",
+            "value": 1
+        },
+        {
+            "source": "PA2",
+            "target": "P.2",
+            "value": 1
+        },
+        {
+            "source": "P.2",
+            "target": "2,1,2",
+            "value": 1
+        },
+        {
+            "source": "PA2",
+            "target": "P.2",
+            "value": 1
+        },
+        {
+            "source": "P.2",
+            "target": "2,1,3",
+            "value": 1
+        },
+        {
+            "source": "PA2",
+            "target": "P.2",
+            "value": 1
+        },
+        {
+            "source": "P.2",
+            "target": "2,1,4",
+            "value": 1
+        },
+        {
+            "source": "PA2",
+            "target": "P.2",
+            "value": 1
+        },
+        {
+            "source": "P.2",
+            "target": "2,1,5",
+            "value": 1
+        },
+        {
+            "source": "PA2",
+            "target": "P.2",
+            "value": 1
+        },
+        {
+            "source": "P.2",
+            "target": "2,1,6",
+            "value": 1
+        },
+        {
+            "source": "PA2",
+            "target": "P.2",
+            "value": 1
+        },
+        {
+            "source": "P.2",
+            "target": "2,1,7",
+            "value": 1
+        },
+        {
+            "source": "PA2",
+            "target": "P.2",
+            "value": 1
+        },
+        {
+            "source": "P.2",
+            "target": "2,2,1",
+            "value": 1
+        },
+        {
+            "source": "PA2",
+            "target": "P.2",
+            "value": 1
+        },
+        {
+            "source": "P.2",
+            "target": "2,2,2",
+            "value": 1
+        },
+        {
+            "source": "PA2",
+            "target": "P.2",
+            "value": 1
+        },
+        {
+            "source": "P.2",
+            "target": "2,2,3",
+            "value": 1
+        },
+        {
+            "source": "PA2",
+            "target": "P.2",
+            "value": 1
+        },
+        {
+            "source": "P.2",
+            "target": "2,2,4",
+            "value": 1
+        },
+        {
+            "source": "PA2",
+            "target": "P.3",
+            "value": 1
+        },
+        {
+            "source": "P.3",
+            "target": "3.1.1",
+            "value": 1
+        },
+        {
+            "source": "PA2",
+            "target": "P.3",
+            "value": 1
+        },
+        {
+            "source": "P.3",
+            "target": "3.1.2",
+            "value": 1
+        },
+        {
+            "source": "PA2",
+            "target": "P.3",
+            "value": 1
+        },
+        {
+            "source": "P.3",
+            "target": "3.1.3",
+            "value": 1
+        },
+        {
+            "source": "PA2",
+            "target": "P.3",
+            "value": 1
+        },
+        {
+            "source": "P.3",
+            "target": "3.1.4",
+            "value": 1
+        },
+        {
+            "source": "PA2",
+            "target": "P.3",
+            "value": 1
+        },
+        {
+            "source": "P.3",
+            "target": "3.1.5",
+            "value": 1
+        },
+        {
+            "source": "PA2",
+            "target": "P.5",
+            "value": 1
+        },
+        {
+            "source": "P.5",
+            "target": "5,1,1",
+            "value": 1
+        },
+        {
+            "source": "PA2",
+            "target": "P.5",
+            "value": 1
+        },
+        {
+            "source": "P.5",
+            "target": "5,1,2",
+            "value": 1
+        },
+        {
+            "source": "PA2",
+            "target": "P.5",
+            "value": 1
+        },
+        {
+            "source": "P.5",
+            "target": "5,2,1",
+            "value": 1
+        },
+        {
+            "source": "PA2",
+            "target": "P.5",
+            "value": 1
+        },
+        {
+            "source": "P.5",
+            "target": "5,2,2",
+            "value": 1
+        },
+        {
+            "source": "PA3",
+            "target": "P,9",
+            "value": 1
+        },
+        {
+            "source": "P,9",
+            "target": "9.1",
+            "value": 1
+        },
+        {
+            "source": "PA3",
+            "target": "P,6",
+            "value": 1
+        },
+        {
+            "source": "P,6",
+            "target": "6.1",
+            "value": 1
+        },
+        {
+            "source": "PA3",
+            "target": "P,6",
+            "value": 1
+        },
+        {
+            "source": "P,6",
+            "target": "6.2",
+            "value": 1
+        },
+        {
+            "source": "PA3",
+            "target": "P,10",
+            "value": 1
+        },
+        {
+            "source": "P,10",
+            "target": "10.1",
+            "value": 1
+        },
+        {
+            "source": "PA3",
+            "target": "P,10",
+            "value": 1
+        },
+        {
+            "source": "P,10",
+            "target": "10.2",
+            "value": 1
+        },
+        {
+            "source": "PA3",
+            "target": "P,4",
+            "value": 1
+        },
+        {
+            "source": "P,4",
+            "target": "4,2,2",
+            "value": 1
+        },
+        {
+            "source": "PA4",
+            "target": "P,7",
+            "value": 1
+        },
+        {
+            "source": "P,7",
+            "target": "7,1,1",
+            "value": 1
+        },
+        {
+            "source": "PA4",
+            "target": "P,7",
+            "value": 1
+        },
+        {
+            "source": "P,7",
+            "target": "7,1,2",
+            "value": 1
+        },
+        {
+            "source": "PA4",
+            "target": "P,7",
+            "value": 1
+        },
+        {
+            "source": "P,7",
+            "target": "7,1,3",
+            "value": 1
+        },
+        {
+            "source": "PA4",
+            "target": "P,7",
+            "value": 1
+        },
+        {
+            "source": "P,7",
+            "target": "7,2,1",
+            "value": 1
+        },
+        {
+            "source": "PA4",
+            "target": "P,7",
+            "value": 1
+        },
+        {
+            "source": "P,7",
+            "target": "7,2,2",
+            "value": 1
+        },
+        {
+            "source": "PA4",
+            "target": "P,7",
+            "value": 1
+        },
+        {
+            "source": "P,7",
+            "target": "7,3,1",
+            "value": 1
+        },
+        {
+            "source": "PA4",
+            "target": "P,7",
+            "value": 1
+        },
+        {
+            "source": "P,7",
+            "target": "7,3,2",
+            "value": 1
+        },
+        {
+            "source": "PA4",
+            "target": "P,7",
+            "value": 1
+        },
+        {
+            "source": "P,7",
+            "target": "7,3,3",
+            "value": 1
+        },
+        {
+            "source": "PA4",
+            "target": "P,8",
+            "value": 1
+        },
+        {
+            "source": "P,8",
+            "target": "8.1",
+            "value": 1
+        },
+        {
+            "source": "PA4",
+            "target": "P,8",
+            "value": 1
+        },
+        {
+            "source": "P,8",
+            "target": "8.2",
+            "value": 1
+        },
+        {
+            "source": "PA4",
+            "target": "P,4",
+            "value": 1
+        },
+        {
+            "source": "P,4",
+            "target": "4,1,1",
+            "value": 1
+        },
+        {
+            "source": "PA4",
+            "target": "P,4",
+            "value": 1
+        },
+        {
+            "source": "P,4",
+            "target": "4,2,1",
+            "value": 1
+        },
+        {
+            "source": "PA4",
+            "target": "P,11",
+            "value": 1
+        },
+        {
+            "source": "P,11",
+            "target": "11.2",
+            "value": 1
+        },
+        {
+            "source": "PA5",
+            "target": "P,9",
+            "value": 1
+        },
+        {
+            "source": "P,9",
+            "target": "9.2",
+            "value": 1
+        },
+        {
+            "source": "PA5",
+            "target": "P,11",
+            "value": 1
+        },
+        {
+            "source": "P,11",
+            "target": "11.1",
+            "value": 1
+        },
+        {
+            "source": "PA5",
+            "target": "P,11",
+            "value": 1
+        },
+        {
+            "source": "P,11",
+            "target": "11.3",
+            "value": 1
+        }
+    ]
+}

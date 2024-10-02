@@ -1,0 +1,308 @@
+{
+    "name": "root",
+    "children": [
+        {
+            "name": "LABORATORIO DE INNOVACIÓN ",
+            "children": [
+                {
+                    "name": "Innovación Pedagógica y Curricular",
+                    "children": [
+                        {
+                            "name": "Formación para la Innovación ",
+                            "value": 1
+                        },
+                        {
+                            "name": "Fundamentación de la Propuesta Didáctica",
+                            "value": 1
+                        },
+                        {
+                            "name": "Modelo Evaluación de Competencias y Resultados de Aprendizaje ",
+                            "value": 1
+                        },
+                        {
+                            "name": "Transformación del Plan de Acompañamiento a los estudiantes ",
+                            "value": 1
+                        },
+                        {
+                            "name": "Concepto, coherencia y consistencia de la transformación curricular",
+                            "value": 1
+                        },
+                        {
+                            "name": "Nuevo modelo de transformación curricular",
+                            "value": 1
+                        },
+                        {
+                            "name": "Identificación de buenas Prácticas en procesos de formación",
+                            "value": 1
+                        },
+                        {
+                            "name": "Resignificación del Componente Humanístico de la USB",
+                            "value": 1
+                        },
+                        {
+                            "name": "Modelos líneas de desarrollo académico",
+                            "value": 1
+                        },
+                        {
+                            "name": "Rutas de Formación Interdisciplinarias\n",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "ESTRATEGIA HUB ",
+            "children": [
+                {
+                    "name": "Portafolio",
+                    "children": [
+                        {
+                            "name": "Modelo de Negocio Sistema de Formación Avanzada",
+                            "value": 1
+                        },
+                        {
+                            "name": "Modelo de Negocio Vigilancia Tecnológica",
+                            "value": 1
+                        },
+                        {
+                            "name": "Modelo de Negocio Pregrado  ",
+                            "value": 1
+                        },
+                        {
+                            "name": "Modelo de Negocio Posgrado  ",
+                            "value": 1
+                        },
+                        {
+                            "name": "Modelo de Negocio Marco Nacional de Cualificación",
+                            "value": 1
+                        },
+                        {
+                            "name": "Modelo de Negocio Extensión",
+                            "value": 1
+                        },
+                        {
+                            "name": "Modelo de Negocio Proyectos y Consultoría",
+                            "value": 1
+                        },
+                        {
+                            "name": "Portafolio Facultad (pregrado-posgrado-MNC)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Portafolio Extensión (Ed. Continua)",
+                            "value": 1
+                        },
+                        {
+                            "name": "Portafolio Proyectos y Consultoría- hiperlabs",
+                            "value": 1
+                        },
+                        {
+                            "name": "USB SKILLS (Cuando se resuelva el tema del HUB de Innovación los molinos, se concreta este tema de los SKILLS)",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Transferencia del Conocimiento",
+                    "children": [
+                        {
+                            "name": "Gobernanza para la Transferencia del Conocimiento",
+                            "value": 1
+                        },
+                        {
+                            "name": "Nodo de Sostenibilidad y Sistemas Regenerativos",
+                            "value": 1
+                        },
+                        {
+                            "name": "Nodo Bienestar Integral",
+                            "value": 1
+                        },
+                        {
+                            "name": "Nodo Culturas de Paz",
+                            "value": 1
+                        },
+                        {
+                            "name": "Nodo Innovación Pedagógica",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Alianzas Estratégicas",
+                    "children": [
+                        {
+                            "name": "Gestión Relacional",
+                            "value": 1
+                        },
+                        {
+                            "name": "Posicionamiento de Marca",
+                            "value": 1
+                        },
+                        {
+                            "name": "Capacidades de Cooperación",
+                            "value": 1
+                        },
+                        {
+                            "name": "Implementar Cooperación",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "PLATAFORMA DE INNOVACIÓN Y TRANSFERENCIA DE CONOCIMIENTO",
+            "children": [
+                {
+                    "name": "Universidad Como Centro de Vida",
+                    "children": [
+                        {
+                            "name": "Sistema de Gestión de Desempeño\n\n",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "HUB Innovación y Transformación Armenia",
+                    "children": [
+                        {
+                            "name": "Estructura académico-administrativa",
+                            "value": 1
+                        },
+                        {
+                            "name": "Modelo de servicios y relacionamiento",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Sistema  de Analítica Universitaria",
+                    "children": [
+                        {
+                            "name": "Modelo de gestión",
+                            "value": 1
+                        },
+                        {
+                            "name": "Plataforma para la Analítica ",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Transformación Digital",
+                    "children": [
+                        {
+                            "name": "Automatización de Procesos",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "SISTEMAS DE AMBITOS Y ACIONES PARA EL CAMPUS UNIVERSITARIO ",
+            "children": [
+                {
+                    "name": "Plan  Maestro de Infraestructura Física y Medio Ambiente",
+                    "children": [
+                        {
+                            "name": "Componente Ambiental PMIF",
+                            "value": 1
+                        },
+                        {
+                            "name": "Nueva Infraestructura",
+                            "value": 1
+                        },
+                        {
+                            "name": "Movilidad Universal",
+                            "value": 1
+                        },
+                        {
+                            "name": "Gestión y Diagnóstico de la Infraestructura",
+                            "value": 1
+                        },
+                        {
+                            "name": "Plan Mercadeo Infraestructura",
+                            "value": 1
+                        },
+                        {
+                            "name": "Transformación de Ambientes en Campus",
+                            "value": 1
+                        },
+                        {
+                            "name": "HUB Innovación Armenia",
+                            "value": 1
+                        },
+                        {
+                            "name": "Transformación Energética Campus",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Plan Maestro de Infraestructura Tecnológica",
+                    "children": [
+                        {
+                            "name": "Actualización Tecnológica",
+                            "value": 1
+                        },
+                        {
+                            "name": "Renovación Networking Campus",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Transformación Digital",
+                    "children": [
+                        {
+                            "name": "Formulación de la Estructura de Virtualidad para la Seccional Medellín",
+                            "value": 1
+                        },
+                        {
+                            "name": "Capacidades para la Transformación Digital",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Gestión del Cambio ",
+                    "children": [
+                        {
+                            "name": "Endomarketing ",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "MODELO DE GESTIÓN DEL TALENTO HUMANO",
+            "children": [
+                {
+                    "name": "Universidad Como Centro de Vida",
+                    "children": [
+                        {
+                            "name": "Modelo de gestion del Talento Humano ",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Gestión del Cambio ",
+                    "children": [
+                        {
+                            "name": "Modelo de gestion del cambio - Talento Humano",
+                            "value": 1
+                        },
+                        {
+                            "name": "Cultura de Aprendizaje (formación para la transformación)",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sankey Diagram</title>
+    <script src="https://cdn.jsdelivr.net/npm/echarts@5.4.2/dist/echarts.min.js"></script>
+    <style>
+        #logo-container {
+            text-align: center;
+            position: absolute;
+            top: 10px;
+            left: 50%;
+            transform: translateX(-50%);
+        }
+
+        #bottom-logos {
+            position: absolute;
+            right: 10px;
+            bottom: 10px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        #bottom-logos img {
+            margin: 5px 0;
+        }
+
+        #chart {
+            width: 99vw;
+            height: 90vh;
+        }
+
+        #toggleButton {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Contenedor para el logo superior centrado
+    <div id="logo-container">
+        <img src="/static/logo-usbmed.png" alt="Logo USBMed">
+    </div> -->
+
+    <!-- Gráfico Sankey -->
+    <div id="chart"></div>
+
+    <!-- Contenedor para los logos en la parte inferior derecha -->
+    <!-- <div id="bottom-logos">
+        <img src="/static/HUB.jpeg" alt="HUB Logo" width="150">
+        <img src="/static/INGENIERÍAS NEGRO.png" alt="Ingenierías Logo" width="150">
+    </div> -->
+
+    <script>
+        var chartDom = document.getElementById('chart');
+        var myChart = echarts.init(chartDom);
+        var option;
+
+        // Cargar datos desde el servidor
+        fetch('/data/sankey_data.json')
+            .then(response => response.json())
+            .then(data => {
+                myChart.setOption({
+                    series: [{
+                        type: 'sankey',
+                        layout: 'none',
+                        data: data.nodes,
+                        links: data.links,
+                        emphasis: {
+                            focus: 'adjacency'
+                        },
+                        nodeAlign: 'left'
+                    }]
+                });
+            })
+            .catch(error => console.error('Error loading Sankey data:', error));
+    </script>
+</body>
+</html>

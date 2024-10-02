@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Force-Directed Graph</title>
+    <script src="https://cdn.jsdelivr.net/npm/echarts@5.4.2/dist/echarts.min.js"></script> <!-- Cargar ECharts -->
+    <style>
+        body {
+            margin: 0;
+            overflow: hidden;
+            font-family: Arial, sans-serif;
+        }
+
+        #chart {
+            width: 100vw;
+            height: 90vh;
+        }
+
+        #logo-container {
+            text-align: center;
+            position: absolute;
+            top: 10px;
+            left: 50%;
+            transform: translateX(-50%);
+        }
+
+        #bottom-logos {
+            position: absolute;
+            right: 10px;
+            bottom: 10px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        #bottom-logos img {
+            margin: 5px 0;
+        }
+    </style>
+</head>
+<body>
+    <!-- Contenedor para el logo superior centrado -->
+    <!-- <div id="logo-container">
+        <img src="static/logo-usbmed.png" alt="Logo USBMed">
+    </div> -->
+
+    <!-- Gráfico -->
+    <div id="chart"></div>
+
+    <!-- Contenedor para los logos en la parte inferior derecha -->
+    <!-- <div id="bottom-logos">
+        <img src="static/HUB.jpeg" alt="HUB Logo" width="150">
+        <img src="static/INGENIERÍAS NEGRO.png" alt="Ingenierías Logo" width="150">
+    </div> -->
+
+    <script>
+        var chartDom = document.getElementById('chart');
+        var myChart = echarts.init(chartDom);
+        var option;
+
+        fetch('/data/nodes_data.json')  // Supongo que el archivo de datos sigue siendo 'nodes-data'
+            .then(response => response.json())
+            .then(data => {
+                option = {
+                    tooltip: {},
+                    series: [
+                        {
+                            type: 'graph',
+                            layout: 'force',
+                            data: data.nodes,
+                            links: data.links,
+                            roam: true,
+                            label: {
+                                show: true,
+                                position: 'right',
+                                formatter: function(params) {
+                                    // Aplicar negrita para los productos padre
+                                    if (params.data.depth === 0) {
+                                        return '{b|' + params.data.name + '}';
+                                    } else {
+                                        return params.data.name;
+                                    }
+                                },
+                                rich: {
+                                    b: {
+                                        fontWeight: 'bold'
+                                    }
+                                }
+                            },
+                            force: {
+                                repulsion: 200,  // Aumenta la repulsión entre los nodos
+                                edgeLength: [50, 150]  // Define el rango de longitud de los enlaces
+                            },
+                            edgeSymbol: ['none', 'arrow'],  // Flecha en el final de los enlaces
+                            edgeSymbolSize: 10,
+                            lineStyle: {
+                                opacity: 0.9,
+                                width: 1,
+                                curveness: 0.3
+                            },
+                            itemStyle: {
+                                color: function (params) {
+                                    // Aplicar colores personalizados según el nivel
+                                    switch (params.data.depth) {
+                                        case 0:
+                                            return '#5470c6';  // Color para productos padre
+                                        case 1:
+                                            return '#91cc75';  // Color para proyectos estratégicos
+                                        default:
+                                            return '#fac858';  // Color para los microproyectos
+                                    }
+                                },
+                                borderColor: '#000', // Color del borde
+                                borderWidth: 1.5
+                            }
+                        }
+                    ]
+                };
+
+                myChart.setOption(option);
+            })
+            .catch(error => console.error('Error al cargar los datos:', error));
+    </script>
+</body>
+</html>
